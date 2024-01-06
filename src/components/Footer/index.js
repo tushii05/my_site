@@ -104,7 +104,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2023 Tushar Deshmukh. All rights reserved.
+          &copy; 2024 Tushar Deshmukh. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
