@@ -238,7 +238,7 @@ export const projects = [
     description:
       "Lifetime lotto is an online lottery platform where users can buy lottery tickets which are added by the admin with different types of lottery drawing formats. Here all users buy their lottery ticket and win exclusive prize money when their lottery number get matched with the winning number. Also there is a scratch card game, where users can purchase the scratch card and matching the unlocked numbers from the card gets them win the prize money.",
     image:
-      "https://private-user-images.githubusercontent.com/104415590/294652773-843276b2-69ae-4223-9e2b-15153ae5e0b2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ1MTk1OTYsIm5iZiI6MTcwNDUxOTI5NiwicGF0aCI6Ii8xMDQ0MTU1OTAvMjk0NjUyNzczLTg0MzI3NmIyLTY5YWUtNDIyMy05ZTJiLTE1MTUzYWU1ZTBiMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNlQwNTM0NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMDRjNzRjNjJlODZhNDJjYjVhOGZmMmQ4ZGY1YWEyODJhMzcxZmI1OTFlN2MyODU2NTNhNGFjZDFhZmJhZjE0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.0PCWmMn73TeOoqOH5F79dYOsIKPV8DFjxywmP8DkzXA",
+      "https://raw.githubusercontent.com/tushii05/my_site/main/src/images/lotto.png",
     tags: ["React Js", "MySQL", "Node Js", "Express Js"],
     category: "web app",
     // github: "",
@@ -265,7 +265,7 @@ export const projects = [
     description:
       "Introducing our innovative chat application designed to bring seamless and real- time communication to users around the world.Our chat app provides a user - friendly interface for individuals and groups to connect instantly.",
     image:
-      "https://private-user-images.githubusercontent.com/104415590/294652775-fdcf4552-f7cc-4b31-9f5a-eded5c6d68d7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ1MTk1OTYsIm5iZiI6MTcwNDUxOTI5NiwicGF0aCI6Ii8xMDQ0MTU1OTAvMjk0NjUyNzc1LWZkY2Y0NTUyLWY3Y2MtNGIzMS05ZjVhLWVkZWQ1YzZkNjhkNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwNlQwNTM0NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02ZWYwNmRjYjBlOWRjOGJjYzcxY2Y3ZTZjMjk2ZDk4MTQ2MGQ1MDRhZWE3YzEyYzc1ZDIyNGE5ZWZjM2FmNmE5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.h8CRoh0wDy4rR4MAvWV0WWSXB4YMzQY3FQLkaE2Z2U4",
+      "https://raw.githubusercontent.com/tushii05/my_site/main/src/images/chat.png",
     tags: [
       "React Js",
       "MongoDb",
@@ -312,7 +312,7 @@ export const projects = [
     description:
       "eSports fans stream millions of hours of content each year. These fans already engage with their favorite streamers and feel like part of the team. Well, now they can be. The Backers platform allows eSports competitors to launch private competitions and campaigns to be played out, then they invite their fans to join them.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/104415590/294653070-e4cedf71-caa4-425b-bc2d-65d86a958eb5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240106T054111Z&X-Amz-Expires=300&X-Amz-Signature=ea4f393cd5539f48fae0bc050ef8d77602f55a77fecd933162ff6a2bc84a47b8&X-Amz-SignedHeaders=host&actor_id=104415590&key_id=0&repo_id=589987313",
+      "https://raw.githubusercontent.com/tushii05/my_site/main/src/images/bkrm.png",
     tags: ["Node Js", "React Js", "MySQL Database"],
     category: "web app",
     webapp: "https://www.backroom.games/",
