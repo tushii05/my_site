@@ -13,7 +13,7 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20px;', cursor: 'pointer' }}>
-            <DiCssdeck size="3rem" /> <Span>Portfolio</Span>
+            <DiCssdeck size="3rem" /> <Span>Tushar Deshmukh</Span>
           </a>
         </NavLogo>
         <MobileIcon>

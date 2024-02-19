@@ -242,7 +242,7 @@ export const projects = [
     tags: ["React Js", "MySQL", "Node Js", "Express Js"],
     category: "web app",
     // github: "",
-    webapp: "http://app.lifetimelotto.games:5000/",
+    webapp: "https://lifetimelotto.games/",
     member: [
       {
         name: "Karan Malviya",
@@ -315,7 +315,7 @@ export const projects = [
       "https://raw.githubusercontent.com/tushii05/my_site/main/src/images/bkrm.png",
     tags: ["Node Js", "React Js", "MySQL Database"],
     category: "web app",
-    webapp: "https://www.backroom.games/",
+    webapp: "https://www.bkrm.games/",
   },
 ];
 
