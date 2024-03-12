@@ -307,18 +307,6 @@ export const projects = [
   },
   {
     id: 3,
-    title: "BACKROOM",
-    date: "Jan 2024 - Present",
-    description:
-      "eSports fans stream millions of hours of content each year. These fans already engage with their favorite streamers and feel like part of the team. Well, now they can be. The Backers platform allows eSports competitors to launch private competitions and campaigns to be played out, then they invite their fans to join them.",
-    image:
-      "https://raw.githubusercontent.com/tushii05/my_site/main/src/images/bkrm.png",
-    tags: ["Node Js", "React Js", "MySQL Database"],
-    category: "web app",
-    webapp: "https://www.bkrm.games/",
-  },
-  {
-    id: 4,
     title: "Employee Management",
     date: "Jan 2024 - Mar 2024",
     description:
@@ -330,6 +318,19 @@ export const projects = [
     webapp: "https://employee-management-frontend-ten.vercel.app/",
     github: "https://github.com/tushii05/employee-management",
   },
+  {
+    id: 4,
+    title: "BACKROOM",
+    date: "Jan 2024 - Present",
+    description:
+      "eSports fans stream millions of hours of content each year. These fans already engage with their favorite streamers and feel like part of the team. Well, now they can be. The Backers platform allows eSports competitors to launch private competitions and campaigns to be played out, then they invite their fans to join them.",
+    image:
+      "https://raw.githubusercontent.com/tushii05/my_site/main/src/images/bkrm.png",
+    tags: ["Node Js", "React Js", "MySQL Database"],
+    category: "web app",
+    webapp: "https://www.bkrm.games/",
+  },
+
 ];
 
 export const TimeLineData = [
